@@ -1,0 +1,4 @@
+/home/raven/Desktop/SP/build/CMakeFiles/calculator.dir
+/home/raven/Desktop/SP/build/CMakeFiles/main.dir
+/home/raven/Desktop/SP/build/CMakeFiles/edit_cache.dir
+/home/raven/Desktop/SP/build/CMakeFiles/rebuild_cache.dir
